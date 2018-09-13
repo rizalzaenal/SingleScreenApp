@@ -4,4 +4,5 @@ Design and implement a single screen app that displays information about a ficti
 
 
 ScreenShot:
+
 <img src="https://user-images.githubusercontent.com/22167744/45464378-8ad4fb00-b73a-11e8-84f7-38f771e8f3d2.png" width="400" height="800">
